@@ -1,0 +1,25 @@
+body {
+    background-color: #01BEFE;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #8F00FF;
+}
+
+a {
+    color: #e8d60e;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+  .card {
+    background-color:  #FFDD00;
+}
+  .btn {
+    background-color:  #0aa80a;
+}
+ .predict {
+    background-color:  #0aa80a;
+}
